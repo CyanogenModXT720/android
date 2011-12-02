@@ -7,7 +7,7 @@
   <default revision="froyo"
            remote="aosp" />
 
-  <project path="build" name="Mioze7Ae/android_build" remote="github">
+  <project path="build" name="CyanogenModXT720/android_build" remote="github">
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
 
@@ -46,7 +46,7 @@
   <project path="device/motorola/backflip" name="CyanogenMod/android_device_motorola_backflip" remote="github" revision="master" />
   <project path="device/motorola/sholes" name="CyanogenMod/android_device_motorola_sholes" remote="github" />
   <project path="device/motorola/umts_sholes" name="milaq/android_device_motorola_umts_sholes" remote="github" />
-  <project path="device/motorola/sholest" name="Mioze7Ae/android_device_motorola_sholest" remote="github" />
+  <project path="device/motorola/sholest" name="CyanogenModXT720/android_device_motorola_sholest" remote="github" />
   <project path="device/samsung/bmlunlock" name="CyanogenMod/android_device_samsung_bmlunlock" remote="github" revision="master" />
   <project path="device/samsung/herring" name="CyanogenMod/android_device_samsung_herring" remote="github" />
   <project path="device/samsung/vibrant" name="CyanogenMod/android_device_samsung_vibrant" remote="github" />
@@ -97,7 +97,7 @@
   <project path="external/jpeg" name="CyanogenMod/android_external_jpeg" remote="github" />
   <project path="external/jsr305" name="platform/external/jsr305" />
   <project path="external/junit" name="platform/external/junit" />
-  <project path="external/kernel-headers" name="Mioze7Ae/android_external_kernel-headers" remote="github" />
+  <project path="external/kernel-headers" name="CyanogenModXT720/android_external_kernel-headers" remote="github" />
   <project path="external/libffi" name="platform/external/libffi" />
   <project path="external/libncurses" name="CyanogenMod/android_external_libncurses" remote="github" revision="libncurses-5.7-froyo" />
   <project path="external/libpcap" name="platform/external/libpcap" />
@@ -142,7 +142,7 @@
   <project path="external/yaffs2" name="CyanogenMod/android_external_yaffs2" remote="github" />
   <project path="external/zlib" name="platform/external/zlib" />
 
-  <project path="frameworks/base" name="Mioze7Ae/android_frameworks_base" remote="github" />
+  <project path="frameworks/base" name="CyanogenModXT720/android_frameworks_base" remote="github" />
   <project path="frameworks/ex" name="platform/frameworks/ex" revision="gingerbread"/>
   <project path="frameworks/opt/emoji" name="platform/frameworks/opt/emoji" />
   <project path="frameworks/policies/base" name="milaq/android_frameworks_policies_base" remote="github" />
@@ -150,7 +150,7 @@
   <project path="hardware/alsa_sound" name="platform/hardware/alsa_sound" />
   <project path="hardware/broadcom/wlan" name="platform/hardware/broadcom/wlan" />
   <project path="hardware/libhardware" name="CyanogenMod/android_hardware_libhardware" remote="github" />
-  <project path="hardware/libhardware_legacy" name="Mioze7Ae/android_hardware_libhardware_legacy" remote="github" />
+  <project path="hardware/libhardware_legacy" name="CyanogenModXT720/android_hardware_libhardware_legacy" remote="github" />
   <project path="hardware/msm7k" name="CyanogenMod/android_hardware_msm7k" remote="github" />
   <project path="hardware/qcom/gps" name="platform/hardware/qcom/gps" />
   <project path="hardware/qcom/mm-core" name="CyanogenMod/android_hardware_qcom_mm-core" remote="github" />
@@ -199,7 +199,7 @@
   <project path="packages/apps/SoundRecorder" name="CyanogenMod/android_packages_apps_SoundRecorder" remote="github" />
   <project path="packages/apps/Stk" name="platform/packages/apps/Stk" />
   <project path="packages/apps/Superuser" name="CyanogenMod/android_packages_apps_Superuser" remote="github" revision="master" />
-  <project path="packages/apps/Torch" name="Mioze7Ae/android_packages_apps_Torch" remote="github" revision="gingerbread" />
+  <project path="packages/apps/Torch" name="CyanogenModXT720/android_packages_apps_Torch" remote="github" />
   <project path="packages/apps/Usb" name="milaq/android_packages_apps_Usb" remote="github" revision="rewrite" />
   <project path="packages/apps/TSCalibration" name="CyanogenMod/android_packages_apps_TSCalibration" remote="github" />
   <project path="packages/apps/VoiceDialer" name="CyanogenMod/android_packages_apps_VoiceDialer" remote="github" />
@@ -230,9 +230,9 @@
   <project path="system/vold" name="CyanogenMod/android_system_vold" remote="github" />
   <project path="system/wlan/ti" name="nadlabak/android_system_wlan_ti" remote="github" revision="gingerbread" />
   <project path="vendor/motorola/umts_sholes" name="milaq/android_vendor_motorola_umts_sholes" remote="github" />
-  <project path="vendor/motorola/sholest" name="Mioze7Ae/android_vendor_motorola_sholest" remote="github" />
-  <project path="vendor/cyanogen" name="Mioze7Ae/android_vendor_cyanogen" remote="github" />
+  <project path="vendor/motorola/sholest" name="CyanogenModXT720/android_vendor_motorola_sholest" remote="github" />
+  <project path="vendor/cyanogen" name="CyanogenModXT720/android_vendor_cyanogen" remote="github" />
 
-  <project path="android" name="Mioze7Ae/android" remote="github" />
+  <project path="android" name="CyanogenModXT720/android" remote="github" />
 
 </manifest>

@@ -45,7 +45,7 @@
   <project path="device/kyocera/m6000" name="koush/android_device_kyocera_m6000" remote="github" revision="master" />
   <project path="device/motorola/backflip" name="CyanogenMod/android_device_motorola_backflip" remote="github" revision="master" />
   <project path="device/motorola/sholes" name="CyanogenMod/android_device_motorola_sholes" remote="github" />
-  <project path="device/motorola/umts_sholes" name="milaq/android_device_motorola_umts_sholes" remote="github" />
+<!--  <project path="device/motorola/umts_sholes" name="milaq/android_device_motorola_umts_sholes" remote="github" /> -->
   <project path="device/motorola/sholest" name="CyanogenModXT720/android_device_motorola_sholest" remote="github" />
   <project path="device/samsung/bmlunlock" name="CyanogenMod/android_device_samsung_bmlunlock" remote="github" revision="master" />
   <project path="device/samsung/herring" name="CyanogenMod/android_device_samsung_herring" remote="github" />

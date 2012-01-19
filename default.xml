@@ -17,7 +17,7 @@
   <project path="bootable/diskinstaller" name="platform/bootable/diskinstaller" />
   <project path="bootable/recovery" name="CyanogenMod/android_bootable_recovery" remote="github" />
 
-  <project path="dalvik" name="nadlabak/android_dalvik" remote="github" />
+  <project path="dalvik" name="CyanogenModXT720/android_dalvik" remote="github" />
   <project path="development" name="CyanogenMod/android_development" remote="github" />
 
   <project path="device/common" name="device/common" />
@@ -99,7 +99,7 @@
   <project path="external/libffi" name="platform/external/libffi" />
   <project path="external/libncurses" name="CyanogenMod/android_external_libncurses" remote="github" revision="libncurses-5.7-froyo" />
   <project path="external/libpcap" name="platform/external/libpcap" />
-  <project path="external/libpng" name="CyanogenMod/android_external_libpng" remote="github" />
+  <project path="external/libpng" name="CyanogenModXT720/android_external_libpng" remote="github" />
   <project path="external/libxml2" name="platform/external/libxml2" />
   <project path="external/lzo" name="fries/android-external-liblzo" revision="master" remote="github" />
   <project path="external/mtpd" name="CyanogenMod/android_external_mtpd" remote="github" />
@@ -163,7 +163,7 @@
   <project path="packages/apps/AccountsAndSyncSettings" name="platform/packages/apps/AccountsAndSyncSettings" />
   <project path="packages/apps/AndroidTerm" name="CyanogenMod/android_packages_apps_AndroidTerm" remote="github" revision="master" />
   <project path="packages/apps/Bluetooth" name="CyanogenMod/android_packages_apps_Bluetooth" remote="github" />
-  <project path="packages/apps/Browser" name="CyanogenMod/android_packages_apps_Browser" remote="github" />
+  <project path="packages/apps/Browser" name="CyanogenModXT720/android_packages_apps_Browser" remote="github" />
   <project path="packages/apps/Calculator" name="platform/packages/apps/Calculator" />
   <project path="packages/apps/Calendar" name="platform/packages/apps/Calendar" />
   <project path="packages/apps/Camera" name="milaq/android_packages_apps_Camera" remote="github" revision="froyo" />
@@ -221,11 +221,11 @@
   <project path="prebuilt" name="platform/prebuilt" revision="master" />
   <project path="sdk" name="platform/sdk"  revision="tools_r6"/>
   <project path="system/bluetooth" name="CyanogenMod/android_system_bluetooth" remote="github" />
-  <project path="system/core" name="milaq/android_system_core" remote="github" />
+  <project path="system/core" name="CyanogenModXT720/android_system_core" remote="github" />
   <project path="system/extras" name="CyanogenMod/android_system_extras" remote="github" />
-  <project path="system/netd" name="CyanogenMod/android_system_netd" remote="github" />
-  <project path="system/vold" name="CyanogenMod/android_system_vold" remote="github" />
-  <project path="system/wlan/ti" name="nadlabak/android_system_wlan_ti" remote="github" revision="gingerbread" />
+  <project path="system/netd" name="CyanogenModXT720/android_system_netd" remote="github" />
+  <project path="system/vold" name="CyanogenModXT720/android_system_vold" remote="github" />
+  <project path="system/wlan/ti" name="CyanogenModXT720/android_system_wlan_ti" remote="github" />
   <project path="vendor/motorola/umts_sholes" name="milaq/android_vendor_motorola_umts_sholes" remote="github" />
   <project path="vendor/motorola/sholest" name="CyanogenModXT720/android_vendor_motorola_sholest" remote="github" />
   <project path="vendor/cyanogen" name="CyanogenModXT720/android_vendor_cyanogen" remote="github" />

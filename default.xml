@@ -195,7 +195,6 @@
   <project path="packages/apps/Settings" name="CyanogenMod/android_packages_apps_Settings" remote="github" />
   <project path="packages/apps/SoundRecorder" name="CyanogenMod/android_packages_apps_SoundRecorder" remote="github" />
   <project path="packages/apps/Stk" name="platform/packages/apps/Stk" />
-  <project path="packages/apps/Superuser" name="CyanogenMod/android_packages_apps_Superuser" remote="github" revision="gingerbread" />
   <project path="packages/apps/Torch" name="CyanogenModXT720/android_packages_apps_Torch" remote="github" />
   <project path="packages/apps/Usb" name="CyanogenModXT720/android_packages_apps_Usb" remote="github" />
   <project path="packages/apps/TSCalibration" name="CyanogenMod/android_packages_apps_TSCalibration" remote="github" />
@@ -223,7 +222,6 @@
   <project path="system/bluetooth" name="CyanogenMod/android_system_bluetooth" remote="github" />
   <project path="system/core" name="CyanogenModXT720/android_system_core" remote="github" />
   <project path="system/extras" name="CyanogenModXT720/android_system_extras" remote="github" />
-  <project path="system/su" name="ChainsDD/su-binary" remote="github" revision="master" />
   <project path="system/netd" name="CyanogenModXT720/android_system_netd" remote="github" />
   <project path="system/vold" name="CyanogenModXT720/android_system_vold" remote="github" />
   <project path="system/wlan/ti" name="CyanogenModXT720/android_system_wlan_ti" remote="github" />

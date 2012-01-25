@@ -222,7 +222,7 @@
   <project path="sdk" name="platform/sdk"  revision="tools_r6"/>
   <project path="system/bluetooth" name="CyanogenMod/android_system_bluetooth" remote="github" />
   <project path="system/core" name="CyanogenModXT720/android_system_core" remote="github" />
-  <project path="system/extras" name="CyanogenMod/android_system_extras" remote="github" revision="gingerbread" />
+  <project path="system/extras" name="CyanogenModXT720/android_system_extras" remote="github" />
   <project path="system/su" name="CyanogenMod/android_system_su" remote="github" revision="gingerbread" />
   <project path="system/netd" name="CyanogenModXT720/android_system_netd" remote="github" />
   <project path="system/vold" name="CyanogenModXT720/android_system_vold" remote="github" />

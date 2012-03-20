@@ -198,7 +198,7 @@
   <project path="packages/apps/Torch" name="CyanogenModXT720/android_packages_apps_Torch" remote="github" />
   <project path="packages/apps/Usb" name="CyanogenModXT720/android_packages_apps_Usb" remote="github" />
   <project path="packages/apps/TSCalibration" name="CyanogenMod/android_packages_apps_TSCalibration" remote="github" />
-  <project path="packages/apps/Toggle2G" name="CyanogenModXT720/android_packages_apps_Toggle2G" remote="github" />
+  <project path="packages/apps/Toggle2G" name="CyanogenModXT720/android_packages_apps_Toggle2G" remote="github" revision="master" />
   <project path="packages/apps/VoiceDialer" name="CyanogenMod/android_packages_apps_VoiceDialer" remote="github" />
   <project path="packages/experimental" name="platform/packages/experimental" />
   <project path="packages/inputmethods/LatinIME" name="nadlabak/android_packages_inputmethods_LatinIME" remote="github" revision="gingerbread" />

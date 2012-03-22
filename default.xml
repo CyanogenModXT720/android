@@ -143,7 +143,7 @@
   <project path="frameworks/base" name="CyanogenModXT720/android_frameworks_base" remote="github" />
   <project path="frameworks/ex" name="platform/frameworks/ex" revision="gingerbread"/>
   <project path="frameworks/opt/emoji" name="platform/frameworks/opt/emoji" />
-  <project path="frameworks/policies/base" name="milaq/android_frameworks_policies_base" remote="github" />
+  <project path="frameworks/policies/base" name="CyanogenModXT720/android_frameworks_policies_base" remote="github" />
 
   <project path="hardware/broadcom/wlan" name="platform/hardware/broadcom/wlan" />
   <project path="hardware/libhardware" name="CyanogenMod/android_hardware_libhardware" remote="github" />
@@ -188,7 +188,7 @@
   <project path="packages/apps/Mms" name="nadlabak/android_packages_apps_Mms" remote="github" />
   <project path="packages/apps/Music" name="CyanogenMod/android_packages_apps_Music" remote="github" />
   <project path="packages/apps/PackageInstaller" name="platform/packages/apps/PackageInstaller" />
-  <project path="packages/apps/Phone" name="milaq/android_packages_apps_Phone" remote="github" />
+  <project path="packages/apps/Phone" name="CyanogenModXT720/android_packages_apps_Phone" remote="github" />
   <project path="packages/apps/Protips" name="CyanogenMod/android_packages_apps_Protips" remote="github" />
   <project path="packages/apps/Provision" name="platform/packages/apps/Provision" />
   <project path="packages/apps/QuickSearchBox" name="platform/packages/apps/QuickSearchBox" />

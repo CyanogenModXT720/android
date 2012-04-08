@@ -15,7 +15,7 @@
   <project path="build" name="nadlabak/android_build">
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
-  <project path="bionic" name="CyanogenMod/android_bionic" />
+  <project path="bionic" name="nadlabak/android_bionic" />
   <project path="bootable/bootloader/legacy" name="CyanogenMod/android_bootable_bootloader_legacy" />
   <project path="bootable/diskinstaller" name="CyanogenMod/android_bootable_diskinstaller" />
   <project path="bootable/recovery" name="CyanogenMod/android_bootable_recovery" />
@@ -125,7 +125,7 @@
   <project path="external/iptables" name="CyanogenMod/android_external_iptables" />
   <project path="external/jdiff" name="CyanogenMod/android_external_jdiff" />
   <project path="external/jhead" name="CyanogenMod/android_external_jhead" />
-  <project path="external/jpeg" name="CyanogenMod/android_external_jpeg" />
+  <project path="external/jpeg" name="CyanogenMod/android_external_jpeg-turbo" revision="ics" />
   <project path="external/jsr305" name="CyanogenMod/android_external_jsr305" />
   <project path="external/junit" name="CyanogenMod/android_external_junit" />
   <project path="external/kernel-headers" name="CyanogenModXT720/android_external_kernel-headers" />
